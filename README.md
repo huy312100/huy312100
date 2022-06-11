@@ -1,9 +1,12 @@
+<div align="center" width="200">
+<img src="assets/text.gif" alt="Hello Coders" >
 
-<img src="assets/text.gif" alt="Hello Coders" style="width:100%;">
+<img width="700" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-<img style="width:100%;" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+</div>
+
 <h3> 👨‍💻 &nbsp; About Me</h3> 
-<img src="https://github-profile-trophy.vercel.app/?username=huy312100&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=huy312100&theme=algolia&row=1"/>
 
 - 🔭 &nbsp; I’m currently working as a Software Engineer at NashTech
 - 🎓 &nbsp; I study information technology and am currently a undergraduate student at VNU-HCMUS
@@ -37,17 +40,25 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <h3> 📈 &nbsp; Activity Graph</h3>
+
+<div align="center">
 <img alt="graph" src="https://activity-graph.herokuapp.com/graph?username=huy312100&theme=rogue"/>
+</div>
 
 <h3> 💳 &nbsp; Profile Summary</h3>
 
+<div align="center" >
 <img alt="summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huy312100&theme=tokyonight"/>
+</div>
 
 <h3> 📟 &nbsp; Stats </h3>
+
+<div align="center">
 <img alt="repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huy312100&theme=tokyonight"/>
 <img alt="commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huy312100&theme=tokyonight"/>
 <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huy312100&theme=tokyonight"/>
 <img alt="commits" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huy312100&theme=tokyonight&utcOffset=8"/>
+</div>
 
 <h3> ☎️ &nbsp; Contact</h3>
 
