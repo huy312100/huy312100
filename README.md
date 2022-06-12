@@ -8,6 +8,7 @@
 <h3> 👨‍💻 &nbsp; About Me</h3> 
 <img src="https://github-profile-trophy.vercel.app/?username=huy312100&theme=algolia&row=1"/>
 
+- 🔗 &nbsp; My Gitbook: https://huy312100.gitbook.io/
 - 🔭 &nbsp; I’m currently working as a Software Engineer at NashTech
 - 🎓 &nbsp; I study information technology and I am currently an undergraduate student at VNU-HCMUS
 - 🌱 &nbsp; I’m currently learning about frontend and backend technologies
