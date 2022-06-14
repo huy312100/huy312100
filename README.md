@@ -16,7 +16,7 @@
 - 📫 &nbsp; How to reach me: All information is below
 - 😄 &nbsp; Pronouns: He/Him
 
-<h3> 🚀 &nbsp; Tech stack</h3>
+<h3> 🚀 &nbsp; Tech Stacks</h3>
 
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
