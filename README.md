@@ -40,12 +40,6 @@
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<h3> 📈 &nbsp; Activity Graph</h3>
-
-<div align="center">
-<img alt="graph" src="https://activity-graph.herokuapp.com/graph?username=huy312100&theme=rogue"/>
-</div>
-
 <h3> 💳 &nbsp; Profile Summary</h3>
 
 <div align="center" >
