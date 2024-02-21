@@ -2,6 +2,7 @@
 <img src="assets/text.gif" alt="Hello Coders" >
 
 <img width="700" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<a href="https://app.daily.dev/huy312100"><img src="https://api.daily.dev/devcards/v2/fRvdtuPfmPfpq33eQMlEi.png?type=wide&r=ll3" width="652" alt="Huy Nguyen Ngoc Duc's Dev Card"/></a>
 
 </div>
 
