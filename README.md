@@ -7,7 +7,6 @@
 </div>
 
 <h3> 👨‍💻 &nbsp; About Me</h3> 
-<img src="https://github-profile-trophy.vercel.app/?username=huy312100&theme=algolia&row=1"/>
 
 - 🔗 &nbsp; My Gitbook: https://huy312100.gitbook.io/
 - 🔭 &nbsp; I’m currently working as a Software Engineer position
@@ -66,5 +65,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/huy312100/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/huy312100/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/huy312100?hr_r=1)
-
-
