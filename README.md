@@ -9,8 +9,8 @@
 <h3> 👨‍💻 &nbsp; About Me</h3> 
 
 - 🔗 &nbsp; My website: [https://huy312100.netlify.app/](https://huy312100.netlify.app/)
-- 🔭 &nbsp; I’m currently working as a Software Engineer position
-- 🎓 &nbsp; I studied information technology and graduated at VNU-HCMUS
+- 🔭 &nbsp; I’m currently working as a Software Engineer
+- 🎓 &nbsp; I studied information technology and graduated from VNU-HCMUS
 - 🌱 &nbsp; I’m currently learning about frontend and backend technologies
 - 🎿 &nbsp; Hobbies : Coding , Reading books , Watch movies , Playing games ...
 - 📫 &nbsp; How to reach me: All information is below
