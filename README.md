@@ -8,7 +8,7 @@
 
 <h3> 👨‍💻 &nbsp; About Me</h3> 
 
-- 🔗 &nbsp; My Gitbook: [https://huy312100.netlify.app/](https://huy312100.netlify.app/)
+- 🔗 &nbsp; My website: [https://huy312100.netlify.app/](https://huy312100.netlify.app/)
 - 🔭 &nbsp; I’m currently working as a Software Engineer position
 - 🎓 &nbsp; I studied information technology and graduated at VNU-HCMUS
 - 🌱 &nbsp; I’m currently learning about frontend and backend technologies
