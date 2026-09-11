@@ -65,3 +65,4 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/huy312100?hr_r=1)
 [![Codeforces](https://img.shields.io/badge/Codeforces-huy312100-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/huy312100)
 [![AtCoder](https://img.shields.io/badge/AtCoder-huy312100-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/huy312100)
+[![CodeChef](https://img.shields.io/badge/CodeChef-huy312100-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/huy312100)
