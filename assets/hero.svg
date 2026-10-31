@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Huy Nguyen — Software Engineer, Financial Engineer, AI/ML Engineer">
+  <title>Huy Nguyen</title>
+  <defs>
+    <pattern id="minor" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0 H0 V20" fill="none" stroke="#11161E" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="bloom">
+      <stop offset="0" stop-color="#5B7C99" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#5B7C99" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="320" fill="#0A0E14"/>
+  <rect width="1000" height="320" fill="url(#minor)"/>
+  <path d="M100 0V320M200 0V320M300 0V320M400 0V320M500 0V320M600 0V320M700 0V320M800 0V320M900 0V320M0 100H1000M0 200H1000" fill="none" stroke="#171E28" stroke-width="1"/>
+
+  <circle cx="760" cy="146" r="230" fill="url(#bloom)"/>
+
+  <!-- ── distributed trace waterfall ────────────────────────────── -->
+  <rect x="548" y="40" width="428" height="212" rx="3" fill="#0C1118" stroke="#1A212B"/>
+
+  <text x="566" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9" letter-spacing="2.4" fill="#46505F">TRACE</text>
+  <text x="958" y="64" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#7A8798">412 ms</text>
+  <path d="M560 74H964" stroke="#171E28"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" fill="#8892A0">
+    <text x="566" y="95">gateway.proxy</text>
+    <text x="566" y="114">auth.verify</text>
+    <text x="566" y="133">portfolio.read</text>
+    <text x="575" y="152">cache.get</text>
+    <text x="575" y="171">db.query</text>
+    <text x="566" y="190">risk.check</text>
+    <text x="575" y="209">metrics.emit</text>
+    <text x="566" y="228">serialize</text>
+  </g>
+
+  <g>
+    <rect x="700" y="89" width="230" height="6" rx="1" fill="#C9A227" opacity="0.72"/>
+
+    <rect x="702" y="108" width="8"   height="6" rx="1" fill="#5B7C99" opacity="0.85"/>
+    <rect x="711" y="127" width="119" height="6" rx="1" fill="#5B7C99" opacity="0.72"/>
+    <rect x="715" y="146" width="6"   height="6" rx="1" fill="#5B7C99" opacity="0.45"/>
+    <rect x="722" y="165" width="104" height="6" rx="1" fill="#5B7C99" opacity="0.45"/>
+    <rect x="834" y="184" width="66"  height="6" rx="1" fill="#5B7C99" opacity="0.72"/>
+    <rect x="840" y="203" width="9"   height="6" rx="1" fill="#5B7C99" opacity="0.45"/>
+    <rect x="904" y="222" width="8"   height="6" rx="1" fill="#5B7C99" opacity="0.72"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8" fill="#46505F" text-anchor="end">
+    <text x="958" y="95">412</text>
+    <text x="958" y="114">12</text>
+    <text x="958" y="133">214</text>
+    <text x="958" y="152">9</text>
+    <text x="958" y="171">186</text>
+    <text x="958" y="190">118</text>
+    <text x="958" y="209">16</text>
+    <text x="958" y="228">14</text>
+  </g>
+
+  <!-- ── identity block ─────────────────────────────────────────── -->
+  <g>
+    <text x="56" y="110" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="3" fill="#5B7C99">HO CHI MINH CITY · UTC+7</text>
+
+    <text x="56" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.2" fill="#E8E4D9">Huy Nguyen</text>
+
+    <text x="56" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="0.2" fill="#9FB6C9">Software Engineer · Financial Engineer · AI/ML Engineer</text>
+
+    <text x="56" y="234" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.4" fill="#7A8798">Algorithms · Distributed Systems · System Design</text>
+
+    <line x1="56" y1="252" x2="376" y2="252" stroke="#C9A227" stroke-width="1" opacity="0.4"/>
+  </g>
+
+  <!-- ── latency distribution strip ─────────────────────────────── -->
+  <path d="M56 266H944" stroke="#171E28"/>
+  <text x="944" y="260" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="8" letter-spacing="1.6" fill="#3C4655">LATENCY DISTRIBUTION</text>
+
+  <path d="M58 300V292M81 300V288M104 300V294M127 300V282M150 300V290M173 300V278M196 300V286M219 300V293M242 300V284M265 300V276M288 300V289M311 300V291M334 300V281M357 300V287M380 300V294M403 300V279M426 300V285M449 300V292M472 300V288M495 300V274M518 300V283M541 300V290M564 300V293M587 300V280M610 300V286M633 300V291M656 300V277M679 300V284M702 300V289M725 300V294M748 300V282M771 300V287M794 300V292M817 300V278M840 300V285M863 300V290M886 300V281M909 300V288" stroke="#5B7C99" stroke-width="5" opacity="0.42"/>
+
+  <!-- ── HUD frame ──────────────────────────────────────────────── -->
+  <g fill="none" stroke="#C9A227" stroke-width="1.2" opacity="0.28">
+    <path d="M28 52V28H52"/>
+    <path d="M948 28H972V52"/>
+    <path d="M28 268V292H52"/>
+    <path d="M948 292H972V268"/>
+  </g>
+</svg>

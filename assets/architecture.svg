@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" role="img" aria-label="Technology stack arranged by architectural layer">
+  <title>Technology stack by layer</title>
+
+  <rect width="900" height="700" fill="#0A0E14"/>
+
+  <!-- frame -->
+  <rect x="28" y="28" width="844" height="644" rx="4" fill="none" stroke="#1A212B"/>
+  <g fill="none" stroke="#C9A227" stroke-width="1.2" opacity="0.32">
+    <path d="M28 60V28H60"/>
+    <path d="M840 28H872V60"/>
+    <path d="M28 640V672H60"/>
+    <path d="M840 672H872V640"/>
+  </g>
+
+  <text x="56" y="60" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="2.8" fill="#46505F">STACK · BY LAYER</text>
+
+  <!-- 01 FRONTEND -->
+  <rect x="56" y="84" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="84" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="104" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="125" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">01</text>
+  <line x1="122" y1="98" x2="122" y2="142" stroke="#1A212B"/>
+  <text x="140" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">FRONTEND</text>
+  <text x="140" y="137" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">Angular · React · TypeScript · RxJS · Next.js</text>
+  <path d="M812 114l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- 02 API LAYER -->
+  <rect x="56" y="168" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="168" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="188" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="209" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">02</text>
+  <line x1="122" y1="182" x2="122" y2="226" stroke="#1A212B"/>
+  <text x="140" y="199" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">API LAYER</text>
+  <text x="140" y="221" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">.NET · C# · Spring Boot · FastAPI · gRPC · Boost.Asio</text>
+  <path d="M812 198l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- 03 SERVICES -->
+  <rect x="56" y="252" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="252" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="272" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="293" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">03</text>
+  <line x1="122" y1="266" x2="122" y2="310" stroke="#1A212B"/>
+  <text x="140" y="283" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">SERVICES</text>
+  <text x="140" y="305" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">Python · C++ · Java · JavaScript</text>
+  <path d="M812 282l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- 04 AI / ML -->
+  <rect x="56" y="336" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="336" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="356" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="377" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">04</text>
+  <line x1="122" y1="350" x2="122" y2="394" stroke="#1A212B"/>
+  <text x="140" y="367" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">AI / ML</text>
+  <text x="140" y="389" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">PyTorch · Transformers · scikit-learn · LangChain</text>
+  <path d="M812 366l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- 05 DATA -->
+  <rect x="56" y="420" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="420" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="440" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="461" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">05</text>
+  <line x1="122" y1="434" x2="122" y2="478" stroke="#1A212B"/>
+  <text x="140" y="451" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">DATA</text>
+  <text x="140" y="473" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">SQL Server · MySQL · MongoDB · Oracle</text>
+  <path d="M812 450l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- 06 PLATFORM -->
+  <rect x="56" y="504" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="504" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="524" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="545" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">06</text>
+  <line x1="122" y1="518" x2="122" y2="562" stroke="#1A212B"/>
+  <text x="140" y="535" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">PLATFORM</text>
+  <text x="140" y="557" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">Kubernetes · OpenShift · AWS · Azure</text>
+  <path d="M812 534l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- 07 TOOLING -->
+  <rect x="56" y="588" width="788" height="72" rx="3" fill="#0E131A" stroke="#1A212B"/>
+  <rect x="56" y="588" width="2" height="72" fill="#C9A227" opacity="0.9"/>
+  <rect x="74" y="608" width="32" height="32" rx="2" fill="none" stroke="#C9A227" opacity="0.32"/>
+  <text x="90" y="629" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#C9A227" opacity="0.85">07</text>
+  <line x1="122" y1="602" x2="122" y2="646" stroke="#1A212B"/>
+  <text x="140" y="619" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" letter-spacing="1.2" fill="#C9A227">TOOLING</text>
+  <text x="140" y="641" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#8892A0">Docker · Git · npm · Jira</text>
+  <path d="M812 618l6 6-6 6" fill="none" stroke="#2A3140" stroke-width="1.2"/>
+
+  <!-- layer flow -->
+  <g stroke="#2A3140" stroke-width="1">
+    <line x1="450" y1="157" x2="450" y2="166"/>
+    <line x1="450" y1="241" x2="450" y2="250"/>
+    <line x1="450" y1="325" x2="450" y2="334"/>
+    <line x1="450" y1="409" x2="450" y2="418"/>
+    <line x1="450" y1="493" x2="450" y2="502"/>
+    <line x1="450" y1="577" x2="450" y2="586"/>
+  </g>
+  <g fill="#2A3140">
+    <path d="M450 168l-3.5-5h7z"/>
+    <path d="M450 252l-3.5-5h7z"/>
+    <path d="M450 336l-3.5-5h7z"/>
+    <path d="M450 420l-3.5-5h7z"/>
+    <path d="M450 504l-3.5-5h7z"/>
+    <path d="M450 588l-3.5-5h7z"/>
+  </g>
+</svg>

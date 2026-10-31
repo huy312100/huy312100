@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 84" width="900" height="84" role="img" aria-label="Section 01 - WHOAMI">
+  <title>01 · WHOAMI</title>
+  <rect width="900" height="84" fill="#0A0E14"/>
+  <text x="0" y="62" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="72" font-weight="700" letter-spacing="-3" fill="#C9A227" opacity="0.18">01</text>
+  <text x="104" y="60" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="26" font-weight="700" letter-spacing="5" fill="#E8E4D9">WHOAMI</text>
+  <text x="900" y="58" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9.5" letter-spacing="2.4" fill="#333C4A">IDENTITY</text>
+  <path d="M0 78H900" stroke="#1A212B"/>
+  <path d="M0 78H86" stroke="#C9A227" stroke-width="2" opacity="0.45"/>
+</svg>
