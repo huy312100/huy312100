@@ -87,4 +87,6 @@ https://huy312100.netlify.app/
   <a href="https://codeforces.com/profile/huy312100"><img src="https://img.shields.io/badge/Codeforces-0E131A?style=for-the-badge&logo=codeforces&logoColor=5B7C99" alt="Codeforces" /></a>
   <a href="https://atcoder.jp/users/huy312100"><img src="https://img.shields.io/badge/AtCoder-0E131A?style=for-the-badge&logo=atcoder&logoColor=5B7C99" alt="AtCoder" /></a>
   <a href="https://www.codechef.com/users/huy312100"><img src="https://img.shields.io/badge/CodeChef-0E131A?style=for-the-badge&logo=codechef&logoColor=5B7C99" alt="CodeChef" /></a>
+  <a href="https://eolymp.com/users/Nu11_Entr0py"><img src="https://img.shields.io/badge/Eolymp-0E131A?style=for-the-badge&logoColor=C9A227" alt="Eolymp" /></a>
+  <a href="https://repovive.com/users/6a9aeb2897b5c85f6bdafb03"><img src="https://img.shields.io/badge/Repovive-0E131A?style=for-the-badge&logoColor=C9A227" alt="Repovive" /></a>
 </p>
